@@ -9,9 +9,9 @@ import Content, { HTMLContent } from '../components/Content'
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  description,
-  tags,
   title,
+  tags,
+  description,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
