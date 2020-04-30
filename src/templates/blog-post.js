@@ -7,11 +7,11 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogPostTemplate = ({
-  title,
-  contentComponent,
-  Content,
-  tags,
   description,
+  contentComponent,
+  content,
+  tags,
+  title,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
