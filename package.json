@@ -46,5 +46,13 @@
   },
   "devDependencies": {
     "prettier": "^2.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robfos98/gatsby-starter-netlify-cms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robfos98/gatsby-starter-netlify-cms/issues"
+  },
+  "homepage": "https://github.com/robfos98/gatsby-starter-netlify-cms#readme"
 }
