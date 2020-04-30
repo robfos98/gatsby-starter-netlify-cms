@@ -7,9 +7,9 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogPostTemplate = ({
-  content,
-  contentComponent,
   title,
+  contentComponent,
+  Content,
   tags,
   description,
   helmet,
